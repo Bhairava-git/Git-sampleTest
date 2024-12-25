@@ -7,6 +7,7 @@ public class GitTest {
         if (x == 10) {
             System.out.println("Git is working fine");
 
+            
         } else {
             System.out.println("Test Failed");
 
